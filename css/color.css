@@ -1,0 +1,582 @@
+/* color the tamplate with css classes */
+
+/* color blue css starts here */
+
+body.blue .bg-common {
+	background: #0F3057;
+}
+
+body.blue .color-common {
+	color: #0F3057;
+}
+
+body.blue header.navbar-fixed {
+	background: rgba(15, 48, 87, 0.9);
+}
+
+body.blue #bannar ul li:first-child a {
+	background: #0F3057;
+	border: 1px solid #0F3057;
+}
+
+body.blue #bannar ul li:first-child a:hover {
+	background: transparent;
+	border: 1px solid #fff;
+}
+
+body.blue #bannar a:hover {
+	background: #0F3057;
+	border: 1px solid #0F3057;
+}
+
+body.blue #about .img-part::before {
+	border-color: #E43A19;
+}
+
+body.blue #about .text-part h3 span {
+	background: #E43A19;
+}
+
+body.blue #about .img-part .overlay i:hover {
+	color: #0F3057;
+}
+
+body.blue .head-line-two {
+	background: #0F3057;
+}
+
+body.blue .service-box:hover .service-box-text h4,
+body.blue .service-box:hover .service-box-text a {
+	color: #0F3057;
+}
+
+body.blue .head-line {
+	background: #E43A19;
+}
+
+body.blue #portfolio .item {
+	background: #F2F4F7;
+}
+
+body.blue #portfolio .browse-button {
+	color: #0F3057;
+}
+
+body.blue #portfolio .browse-button:hover {
+	color: #fff;
+}
+
+body.blue #portfolio .item span i {
+	color: #0F3057;
+}
+
+body.blue #portfolio .item span i:hover {
+	background: #0F3057;
+	color: #fff;
+}
+
+body.blue #team .content .overlay ul li a i:hover {
+	background: #0F3057;
+	border-color: #0F3057;
+}
+
+body.blue #team .browse-button {
+	background: #0F3057;
+	border-color: #0F3057;
+}
+
+body.blue #team .browse-button:hover {
+	background: transparent;
+	color: #0F3057;
+}
+
+body.blue #faq .accordion-row .faq-q[aria-expanded="true"] {
+	color: #0F3057;
+}
+
+body.blue #faq .accordion-row .faq-q:hover {
+	color: #0F3057;
+}
+
+body.blue #pricing .tab-slider-trigger.active {
+	background: #0F3057;
+}
+
+body.blue #pricing .tab-slider-trigger.active:first-child::after {
+	color: #0F3057;
+}
+
+body.blue #pricing .tab-slider-trigger.active:last-child::after {
+	color: #0F3057;
+}
+
+body.blue #pricing .tab-slider-body h5 {
+	background: #0F3057;
+}
+
+body.blue #pricing .tab-slider-body h6 {
+	color: #0F3057;
+}
+
+body.blue #pricing .tab-slider-body .plan-time select {
+	background: #0F3057 url(../images/arrow.png)no-repeat 81%;
+	border-color: #0F3057;
+}
+
+body.blue #pricing .slick-arrow {
+	border-color: #0F3057;
+	color: #0F3057;
+}
+
+body.blue #pricing .slick-arrow:hover {
+	background: #0F3057;
+	color: #fff;
+}
+
+body.blue #pricing .tab-slider-body .person-content .person-image {
+	background: #0F3057;
+}
+
+body.blue #testimonial .slick-dots li {
+	border-color: #0F3057;
+}
+
+body.blue #testimonial .slick-dots li.slick-active {
+	background: #0F3057;
+}
+
+body.blue footer .follow-part ul li i:hover {
+	background: #0F3057;
+}
+
+body.blue .scroll-top {
+	background: rgba(15, 48, 87, 0.8);
+}
+
+body.blue .scroll-top:hover {
+	background: #0f3057;
+}
+
+body.blue .nicescroll-cursors {
+	background: #0f3057 !important;
+}
+
+body.blue ::-webkit-selection {
+	background: rgba(228, 58, 25, 0.5);
+}
+
+body.blue ::-ms-selection {
+	background: rgba(228, 58, 25, 0.5);
+}
+
+body.blue ::-o-selection {
+	background: rgba(228, 58, 25, 0.5);
+}
+
+body.blue ::-moz-selection {
+	background: rgba(228, 58, 25, 0.5);
+}
+
+body.blue ::selection {
+	background: rgba(228, 58, 25, 0.5);
+}
+
+@media (max-width:991px) {
+	body.blue #header {
+		background: #0f3057;
+	}
+	body.blue header .navbar-light .navbar-nav .nav-link.active {
+		color: #E43A19;
+	}
+	body.blue .navbar-light .navbar-nav .nav-link:focus,
+	body.blue .navbar-light .navbar-nav .nav-link:hover {
+		color: #E43A19;
+	}
+}
+
+/* color blue css ends here */
+
+/* color pink css start here */
+
+body.pink .bg-common {
+	background: #E23E57;
+}
+
+body.pink .color-common {
+	color: #E23E57;
+}
+
+body.pink header.navbar-fixed {
+	background: rgba(226, 62, 87, 0.9);
+}
+
+body.pink #bannar ul li:first-child a {
+	background: #E23E57;
+	border: 1px solid #E23E57;
+}
+
+body.pink #bannar ul li:first-child a:hover {
+	background: transparent;
+	border: 1px solid #fff;
+}
+
+body.pink #bannar a:hover {
+	background: #E23E57;
+	border: 1px solid #E23E57;
+}
+
+body.pink #about .img-part::before {
+	border-color: #311D3F;
+}
+
+body.pink #about .text-part h3 span {
+	background: #311D3F;
+}
+
+body.pink #about .img-part .overlay i:hover {
+	color: #E23E57;
+}
+
+body.pink .head-line-two {
+	background: #E23E57;
+}
+
+body.pink .service-box:hover .service-box-text h4,
+body.pink .service-box:hover .service-box-text a {
+	color: #E23E57;
+}
+
+body.pink .head-line {
+	background: #311D3F;
+}
+
+body.pink #portfolio .browse-button {
+	color: #E23E57;
+}
+
+body.pink #portfolio .browse-button:hover {
+	color: #fff;
+}
+
+body.pink #portfolio .item span i {
+	color: #E23E57;
+}
+
+body.pink #portfolio .item span i:hover {
+	background: #E23E57;
+	color: #fff;
+}
+
+body.pink #team .content .overlay ul li a i:hover {
+	background: #A0204C;
+	border-color: #A0204C;
+}
+
+body.pink #team .browse-button {
+	background: #E23E57;
+	border-color: #E23E57;
+}
+
+body.pink #team .browse-button:hover {
+	background: transparent;
+	color: #E23E57;
+}
+
+body.pink #faq .accordion-row .faq-q[aria-expanded="true"] {
+	color: #E23E57;
+}
+
+body.pink #faq .accordion-row .faq-q:hover {
+	color: #E23E57;
+}
+
+body.pink #pricing .tab-slider-trigger.active {
+	background: #E23E57;
+}
+
+body.pink #pricing .tab-slider-trigger.active:first-child::after {
+	color: #E23E57;
+}
+
+body.pink #pricing .tab-slider-trigger.active:last-child::after {
+	color: #E23E57;
+}
+
+body.pink #pricing .tab-slider-body h5 {
+	background: #E23E57;
+}
+
+body.pink #pricing .tab-slider-body h6 {
+	color: #E23E57;
+}
+
+body.pink #pricing .tab-slider-body .plan-time select {
+	background: #E23E57 url(../images/arrow.png)no-repeat 81%;
+	border-color: #E23E57;
+}
+
+body.pink #pricing .slick-arrow {
+	border-color: #E23E57;
+	color: #E23E57;
+}
+
+body.pink #pricing .slick-arrow:hover {
+	background: #E23E57;
+	color: #fff;
+}
+
+body.pink #pricing .tab-slider-body .person-content .person-image {
+	background: #E23E57;
+}
+
+body.pink #testimonial .slick-dots li {
+	border-color: #E23E57;
+}
+
+body.pink #testimonial .slick-dots li.slick-active {
+	background: #E23E57;
+}
+
+body.pink footer .follow-part ul li i:hover {
+	background: #E23E57;
+}
+
+body.pink .scroll-top {
+	background: rgba(226, 62, 87, 0.8);
+}
+
+body.pink .scroll-top:hover {
+	background: #E23E57;
+}
+
+body.pink .nicescroll-cursors {
+	background: #E23E57 !important;
+}
+
+body.pink ::-webkit-selection {
+	background: rgba(49, 29, 63, 0.5);
+}
+
+body.pink ::-ms-selection {
+	background: rgba(49, 29, 63, 0.5);
+}
+
+body.pink ::-o-selection {
+	background: rgba(49, 29, 63, 0.5);
+}
+
+body.pink ::-moz-selection {
+	background: rgba(49, 29, 63, 0.5);
+}
+
+body.pink ::selection {
+	background: rgba(49, 29, 63, 0.5);
+}
+
+@media (max-width:991px) {
+	body.pink #header {
+		background: #E23E57;
+	}
+	body.pink header .navbar-light .navbar-nav .nav-link.active {
+		color: #311D3F;
+	}
+	body.pink .navbar-light .navbar-nav .nav-link:focus,
+	body.pink .navbar-light .navbar-nav .nav-link:hover {
+		color: #311D3F;
+	}
+}
+
+/* color pink css ends here */
+
+/* color green css ends here */
+
+
+body.green .bg-common {
+	background: #0B8457;
+}
+
+body.green .color-common {
+	color: #0B8457;
+}
+
+body.green header.navbar-fixed {
+	background: rgba(11, 132, 87, 0.9);
+}
+
+body.green #bannar ul li:first-child a {
+	background: #0B8457;
+	border: 1px solid #0B8457;
+}
+
+body.green #bannar ul li:first-child a:hover {
+	background: transparent;
+	border: 1px solid #fff;
+}
+
+body.green #bannar a:hover {
+	background: #0B8457;
+	border: 1px solid #0B8457;
+}
+
+body.green #about .img-part::before {
+	border-color: #FFDD5C;
+}
+
+body.green #about .text-part h3 span {
+	background: #FFDD5C;
+}
+
+body.green #about .img-part .overlay i:hover {
+	color: #0B8457;
+}
+
+body.green .head-line-two {
+	background: #0B8457;
+}
+
+body.green .service-box:hover .service-box-text h4,
+body.green .service-box:hover .service-box-text a {
+	color: #0B8457;
+}
+
+body.green .head-line {
+	background: #FFDD5C;
+}
+
+body.green #portfolio .browse-button {
+	color: #0B8457;
+}
+
+body.green #portfolio .browse-button:hover {
+	color: #fff;
+}
+
+body.green #portfolio .item span i {
+	color: #0B8457;
+}
+
+body.green #portfolio .item span i:hover {
+	background: #0B8457;
+	color: #fff;
+}
+
+body.green #team .content .overlay ul li a i:hover {
+	background: #265961;
+	border-color: #265961;
+}
+
+body.green #team .browse-button {
+	background: #0B8457;
+	border-color: #0B8457;
+}
+
+body.green #team .browse-button:hover {
+	background: transparent;
+	color: #0B8457;
+}
+
+body.green #faq .accordion-row .faq-q[aria-expanded="true"] {
+	color: #0B8457;
+}
+
+body.green #faq .accordion-row .faq-q:hover {
+	color: #0B8457;
+}
+
+body.green #pricing .tab-slider-trigger.active {
+	background: #0B8457;
+}
+
+body.green #pricing .tab-slider-trigger.active:first-child::after {
+	color: #0B8457;
+}
+
+body.green #pricing .tab-slider-trigger.active:last-child::after {
+	color: #0B8457;
+}
+
+body.green #pricing .tab-slider-body h5 {
+	background: #0B8457;
+}
+
+body.green #pricing .tab-slider-body h6 {
+	color: #0B8457;
+}
+
+body.green #pricing .tab-slider-body .plan-time select {
+	background: #0B8457 url(../images/arrow.png)no-repeat 81%;
+	border-color: #0B8457;
+}
+
+body.green #pricing .slick-arrow {
+	border-color: #0B8457;
+	color: #0B8457;
+}
+
+body.green #pricing .slick-arrow:hover {
+	background: #0B8457;
+	color: #fff;
+}
+
+body.green #pricing .tab-slider-body .person-content .person-image {
+	background: #0B8457;
+}
+
+body.green #testimonial .slick-dots li {
+	border-color: #0B8457;
+}
+
+body.green #testimonial .slick-dots li.slick-active {
+	background: #0B8457;
+}
+
+body.green footer .follow-part ul li i:hover {
+	background: #0B8457;
+}
+
+body.green .scroll-top {
+	background: rgba(11, 132, 87, 0.8);
+}
+
+body.green .scroll-top:hover {
+	background: #0B8457;
+}
+
+body.green .nicescroll-cursors {
+	background: #0B8457 !important;
+}
+
+body.green ::-webkit-selection {
+	background: rgba(255, 211, 92, 0.5);
+}
+
+body.green ::-ms-selection {
+	background: rgba(255, 211, 92, 0.5);
+}
+
+body.green ::-o-selection {
+	background: rgba(255, 211, 92, 0.5);
+}
+
+body.green ::-moz-selection {
+	background: rgba(255, 211, 92, 0.5);
+}
+
+body.green ::selection {
+	background: rgba(255, 221, 92, 0.5);
+}
+
+@media (max-width:991px) {
+	body.green #header {
+		background: #0B8457;
+	}
+	body.green header .navbar-light .navbar-nav .nav-link.active {
+		color: #FFDD5C;
+	}
+	body.green .navbar-light .navbar-nav .nav-link:focus,
+	body.green .navbar-light .navbar-nav .nav-link:hover {
+		color: #FFDD5C;
+	}
+}
+
+/* color green css ends here */
